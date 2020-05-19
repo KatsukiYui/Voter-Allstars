@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82da4548b4777874b8f55ca178dbc013, type: 3}
+  m_Name: TeamPosterUtil
+  m_EditorClassIdentifier: 
+  noTeamTexture: {fileID: 2800000, guid: 60adde1eb49dad94d84e51aee14de436, type: 3}
+  redTeamTexture: {fileID: 2800000, guid: 0d1d52e43ff49874aa53c59afa98efa2, type: 3}
+  blueTeamTexture: {fileID: 2800000, guid: d6ae0d9555c3ef844a70bda544eacab5, type: 3}
